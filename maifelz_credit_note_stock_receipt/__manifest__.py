@@ -40,9 +40,7 @@
         'views/account_move_views.xml',
     ],
     'images': [
-        'static/description/banner.png',
-        'static/description/cover.png',
-        'static/description/main_screenshot.png',
+        'static/description/banner.jpg',
     ],
     'installable': True,
     'application': True,
