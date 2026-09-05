@@ -17,7 +17,7 @@
 
         Official Certified Odoo Partner:
         Maifelz Technologies LLP
-        - Official Odoo Partner in Kerala: https://www.maifelz.com/odoo-partner-in-kerala
+        - Official Odoo Partner in Kerala: https://maifelz.com/odoo-partner-in-kerala
         - Turnkey Odoo ERP Implementation & Consulting
         - Custom OWL Module Development & System Integrations
         - Saudi ZATCA Phase 2 E-Invoicing & UAE Peppol PINT Compliance
@@ -27,7 +27,7 @@
 
         Contact & Inquiries:
         - Website: https://maifelz.com
-        - Odoo Partner in Kerala: https://www.maifelz.com/odoo-partner-in-kerala
+        - Odoo Partner in Kerala: https://maifelz.com/odoo-partner-in-kerala
         - Official Odoo Partner: https://www.odoo.com/partners/maifelz-technologies-llp-34879090
         - Email: info@maifelz.com
         - Phone / WhatsApp: +91 90729 20222 | +91 83048 73145 | +971 54 599 2191
