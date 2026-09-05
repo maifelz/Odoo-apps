@@ -27,6 +27,7 @@
 
         Contact & Inquiries:
         - Website: https://maifelz.com
+        - Setup Guide: https://www.maifelz.com/blog/odoo-19-credit-note-stock-receipt-guide
         - Odoo Partner in Kerala: https://maifelz.com/odoo-partner-in-kerala
         - Official Odoo Partner: https://www.odoo.com/partners/maifelz-technologies-llp-34879090
         - Email: info@maifelz.com
